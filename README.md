@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/stars/GabrielPassos333?style=social)
 ![](https://img.shields.io/github/watchers/GabrielPassos333?style=social)
 ![](https://img.shields.io/github/forks/GabrielPassos333?style=social)
-![](https://img.shields.io/github/last-commit/GabrielPassos333/gabriel_dev)
+![](https://img.shields.io/github/last-commit/GabrielPassos333/gabrielpassos333)
 
 ### Sobre mim:
 
