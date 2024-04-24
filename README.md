@@ -1,6 +1,4 @@
-# Gabriel
-
-## Olá, eu sou o GabrielPassos333 e esse é meu repositório do GitHub!
+## Hello, I'm GabrielPassos333 and this is my GitHub repository!
 
 ![](https://img.shields.io/github/followers/GabrielPassos333?style=social)
 ![](https://img.shields.io/github/stars/GabrielPassos333?style=social)
@@ -8,13 +6,13 @@
 ![](https://img.shields.io/github/forks/GabrielPassos333?style=social)
 ![](https://img.shields.io/github/last-commit/GabrielPassos333/gabrielpassos333)
 
-### Sobre mim:
+### About me:
 
 ![GabrielPassos](https://github.com/GabrielPassos333.png?size=100)
 
-- 👨🏻‍🎓 **Estudante do segundo período de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.**
-- 🎓 **Engenheiro Agrimensor e Cartógrafo, formado pela Universidade Federal de Viçosa.**
-- ✨ **Embarcando em uma nova jornada de crescimento pessoal e profissional, nesse mundo fantástico que é a programação.**
+- 👨🏻‍🎓 **Second-semester student of Systems Analysis and Development at FATEC Indaiatuba.**
+- 🎓 **Surveying and Cartography Engineer, graduated from the Federal University of Viçosa.**
+- ✨ **Embarking on a new journey of personal and professional growth in this fantastic world of programming.**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
