@@ -10,7 +10,7 @@
 
 ![GabrielPassos](https://github.com/GabrielPassos333.png?size=100)
 
-- 👨🏻‍🎓 **Second-semester student of Systems Analysis and Development at FATEC Indaiatuba.**
+- 👨🏻‍🎓 **Fourth-semester student of Systems Analysis and Development at FATEC Indaiatuba.**
 - 🎓 **Surveying and Cartography Engineer, graduated from the Federal University of Viçosa.**
 - ✨ **Embarking on a new journey of personal and professional growth in this fantastic world of programming.**
 
